@@ -1,0 +1,19 @@
+{
+  "name": "nodeCMD",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "unzipper": "^0.10.11"
+  },
+  "overrides": {
+    "graceful-fs": "^4.2.9"
+  }
+}
